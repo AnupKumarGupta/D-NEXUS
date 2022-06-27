@@ -1,7 +1,7 @@
 # D-NEXUS: Defending Text Networks using Summarization
 Codes and implementation files to be used as a reference to the paper: [**D-NEXUS: Defending Text Networks using Summarization**]()
 
-***Status - Published in Electronic Commerce Research and Applications*** 
+***Status - Published in Elsevier's Electronic Commerce Research and Applications*** 
 
 ## Overview
 This repository contains the following files:
